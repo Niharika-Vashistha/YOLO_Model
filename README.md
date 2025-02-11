@@ -1,3 +1,3 @@
 # YOLO_Model
 
-hfddjyg
+The yolo model is used fro object detection.
